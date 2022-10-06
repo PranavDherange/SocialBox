@@ -42,10 +42,3 @@
     #home-container #user-friends p a {
       text-decoration: none;
       color: orange; }
-      #home-container #user-likes {
-        max-width: 25%;
-        padding: 10px 20px;
-        background-color: white;
-        border-radius: 5px;
-        margin: 10px 10px 10px 0;
-        height: 100%; }
